@@ -3,9 +3,10 @@
 Aplicação web que responde, em poucos cliques, a uma pergunta recorrente do planejamento de manutenção:
 **"com a frota e as janelas de manutenção que temos, conseguimos cobrir as horas que o plano exige?"**
 
-[Visão geral](docs/visao_geral.png)
+<img width="1906" height="851" alt="visao_geral" src="https://github.com/user-attachments/assets/0b2fa3f2-c1be-4fd9-a76d-b5b742084af2" />
 
-**Demo:** _(link do Streamlit Cloud após o deploy)_
+
+**Demo:** [(link do Streamlit Cloud após o deploy)](https://simuladorcapacidade.streamlit.app/)
 
 ## O problema
 
