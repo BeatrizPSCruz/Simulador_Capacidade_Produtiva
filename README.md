@@ -6,7 +6,7 @@ Aplicação web que responde, em poucos cliques, a uma pergunta recorrente do pl
 <img width="1906" height="851" alt="visao_geral" src="https://github.com/user-attachments/assets/0b2fa3f2-c1be-4fd9-a76d-b5b742084af2" />
 
 
-**Demo:** [(link do Streamlit Cloud após o deploy)](https://simuladorcapacidade.streamlit.app/)
+**Demo:** (https://simuladorcapacidade.streamlit.app/)
 
 ## O problema
 
